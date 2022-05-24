@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4059ddb581c150012984dd906099907e",
+    "packages": [
+        {
+            "name": "jordan/http-routes",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jordanAlmeida66/htttp-routes.git",
+                "reference": "659f8c715123898075799f69f68f5af9edb57c2e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jordanAlmeida66/htttp-routes/zipball/659f8c715123898075799f69f68f5af9edb57c2e",
+                "reference": "659f8c715123898075799f69f68f5af9edb57c2e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HttpRoutes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jordanAlmeida66",
+                    "email": "jordansantos4254@gmail.com"
+                }
+            ],
+            "description": "abstração de rotas http com url amigável",
+            "support": {
+                "issues": "https://github.com/jordanAlmeida66/htttp-routes/issues",
+                "source": "https://github.com/jordanAlmeida66/htttp-routes/tree/0.1.0"
+            },
+            "time": "2022-05-24T14:07:36+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

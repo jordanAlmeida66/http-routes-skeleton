@@ -1,0 +1,15 @@
+{
+    "name": "jordan/http-routes-skeleton",
+    "description": "A skeleton for the http-route",
+    "type": "project",
+    "require": {
+        "jordan/http-routes": "^0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jordanAlmeida66",
+            "email": "jordansantos4254@gmail.com"
+        }
+    ]
+}
