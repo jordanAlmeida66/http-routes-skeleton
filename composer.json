@@ -11,5 +11,10 @@
             "name": "jordanAlmeida66",
             "email": "jordansantos4254@gmail.com"
         }
-    ]
+    ],
+    "autoload" : {
+      "psr-4" : {
+        "App\\" :  "app/"
+      }
+    }
 }
